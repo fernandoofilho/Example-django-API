@@ -15,7 +15,7 @@ Este repositório contém uma aplicação de exemplo que demonstra algumas funci
 ## Como Executar
 
 1. **Clonar o Repositório**: Clone este repositório em sua máquina local usando o comando:
-git clone https://github.com/seu_usuario/Example-django-API.git
+git clone https://github.com/fernandoofilho/Example-django-API.git
 
 
 2. **Instalar Dependências**: Navegue até o diretório do projeto e instale as dependências necessárias com o seguinte comando:
